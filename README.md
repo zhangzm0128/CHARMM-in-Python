@@ -132,7 +132,7 @@ Suppose a protein has two amino acids, **ALA** and **ARG**, the protein structur
 ```
      H                !
      |                !
-   H-N-H              !
+   H-NH3-H            !
      |     HB1        !
      |    /           ! ALA
   HA-CA--CB-HB2       !
