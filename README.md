@@ -278,8 +278,7 @@ IMPROPER
 !
 HE2  HE2  CE2  CE2     3.0            0      0.00   ! 
 		! for ethene, yin/adm jr., 12/95
-HR1  NR1  NR2  CPH2    0.5000         0      0.0000 ! ALLOW ARO
-                ! his, adm jr., 7/05/90
+NC2  X    X    C      40.0000         0      0.0000 ! ALLOW   PEP POL ARO
                 ! 5.75->40.0 GUANIDINIUM (KK)
 NH1  X    X    H      20.0000         0      0.0000 ! ALLOW   PEP POL ARO
                 ! NMA Vibrational Modes (LK)
