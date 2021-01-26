@@ -150,6 +150,27 @@ Suppose a protein has two amino acids, **ALA** and **ARG**, the protein structur
      |                      HH21          !
      OXT                                  !
 ```
+```
+     HC               !
+     |                !
+  HC-N-HC             !
+     |      HA        !
+     |     /          ! ALA
+  HA-CT1--CT3-HA      !
+     |     \          !
+     |      HA        !
+   O=C                !
+     |                           HC       !
+   H-NH1                         |        !
+     |    HA   HA   HA   HA     NC2-HC    !
+     |    |    |    |    |     //(+)      !
+  HA-CT1--CT2--CT2--CT2--NC2--C           ! ARG
+     |    |    |    |          \          !
+     |    HA   HA   HA          NC2-HC    !
+  OC=CC                         |         !
+     |                          HC        !
+     OC                                   !
+```
 The type of **N** in first residue change from **NH1** to **NH3**, and there are three **H**, whose type are **HC**, around it.  
 The type of **O** in last residue change from **O** to **OC**. And there is **OXT** on the **C** connected, the type is **OC**. Type of the connected **C** convert to **CC**.
 
